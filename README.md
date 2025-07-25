@@ -1,16 +1,48 @@
-# Afrikana-Portfolio
-personal portifolio website
+# 💼 Personal-Portfolio
 
-![image](https://github.com/wekesaryan/Afrikana-Portfolio/assets/113826742/18141329-690b-4c28-a449-4834bfcde5b1)
+This is a basic static personal portfolio website built using plain HTML, CSS, and JavaScript.
+It's lightweight, responsive, and easy to customize for showcasing your skills, projects, and contact info.
 
-Project directory
-Afrikana-Portfolio
-    -assets
-       -css
-          style.css
-      -images
-        favicon.png
-        ryan.png
-      -js
-        script.js
-index.html
+## 📁 Project Structure
+
+```
+Personal-Portfolio/
+├── assets/
+│   ├── css/
+│   │   └── style.css           # Main stylesheet
+│   ├── images/
+│   │   ├── favicon.png         # Website favicon
+│   │   └── my-profile.jpeg     # Profile picture
+│   └── js/
+│       └── script.js           # JS for interactivity (e.g. animations, form validation)
+└── index.html                  # Main landing page
+```
+
+## ✨ Features
+
+* Responsive design
+* Mobile-friendly layout
+* Dark/light mode ready (optional)
+* Smooth scroll behavior
+* Simple contact form (can be hooked with Formspree or similar)
+* Project showcase section
+* Custom favicon and profile image
+
+## 🛠️ Tech Stack
+
+* **HTML5** – structure
+* **CSS3** – styling (Flexbox/Grid for layout)
+* **JavaScript** – for interactivity
+
+## 🚀 Future Improvements (Optional)
+
+* Add more pages (`about.html`, `projects.html`, `blog.html`)
+* Use Sass or Tailwind for cleaner styling
+* Add animations using GSAP or AOS
+* Deploy with GitHub Pages, Netlify, or Vercel
+
+## 📄 License
+
+This project is open-source under the MIT License.
+
+---
